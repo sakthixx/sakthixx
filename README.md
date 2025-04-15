@@ -1,5 +1,8 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=sakthixx)
+
+I build elegant, responsive and creative web applications with modern tech stack. Focused on clean code and intuitive user experience. 
+I'm focused on frontend development with React & Next, but you'll also find me working with Node.js, PostgreSQL while building the backend for my personal projects.
 <!--
 **sakthixx/sakthixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
